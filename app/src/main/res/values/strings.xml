@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VuzixScanner</string>
+    <string name="scan_to_fill">Scan to Fill</string>
+    <string name="fill_in_from_barcode">Fill-in From Barcode</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="only_on_m300">Barcode SDK only runs on Vuzix M300</string>
+    <string name="buscar_webid">Use el scanner para obtener WebId</string>
+    <string name="leer_QR">Lector .</string>
+    <string name="textbox"></string>
+    <string name="displayWebID" />
+</resources>
